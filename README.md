@@ -5,7 +5,7 @@
 
 ## I am a Student
 
-- 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning Web Designing
-- 💬 Don't Ask me about anything😄
-- ⚡ Fun fact: I am very Lazy
+# 🔭 I’m currently working on my skills
+# 🌱 I’m currently learning Web Designing
+# 💬 Don't Ask me about anything😄
+# ⚡ Fun fact: I am very Lazy
