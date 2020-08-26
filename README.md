@@ -8,8 +8,7 @@
 🌱 I’m currently learning Web Designing
 💬 Don't Ask me about anything😄
 ⚡ Fun fact: I am very Lazy
-
+-->
 ### Connect with me:
 Instagram: https://www.instagram.com/its_vipul.gupta/
-<br>
 Linkedin: https://www.linkedin.com/in/vipul-gup-2204/
