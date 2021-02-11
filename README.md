@@ -1,6 +1,11 @@
 # VIPUL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 
 ### Hi there 👋
+## I am a Enginnering Student and I am a web-developer and design thinker.
+#### 🔭 I’m currently working on my skills.
+#### 🌱 I’m currently learning Back-end.
+#### 💬 Don't Ask me about anything😄
+#### ⚡ Fun fact: I am very Lazy 
 
 ## Contact Me:
 <p align='center'>
@@ -20,13 +25,6 @@
 
 <!--
 **vipulgupta22/vipulgupta22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## I am a Enginnering Student and I am a web-developer and design thinker.
--->
-#### 🔭 I’m currently working on my skills.
-#### 🌱 I’m currently learning Back-end.
-#### 💬 Don't Ask me about anything😄
-#### ⚡ Fun fact: I am very Lazy 
 
 ![Profile views](https://gpvc.arturio.dev/vipulgupta22)  
 Thank You for Visiting! 😉
