@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+## Contact Me:
 <p align='center'>
   <a href="mailto:vipulgup.2204@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
@@ -14,17 +15,18 @@
   </a>&nbsp;&nbsp;
 </p>
 
-## <img height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+## My Skills:
+<img height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <!--
 **vipulgupta22/vipulgupta22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## I am a Student
+## I am a Enginnering Student and I am a web-developer and design thinker.
 -->
-#### 🔭 I’m currently working on my skills
-#### 🌱 I’m currently learning Web Designing
+#### 🔭 I’m currently working on my skills.
+#### 🌱 I’m currently learning Back-end.
 #### 💬 Don't Ask me about anything😄
 #### ⚡ Fun fact: I am very Lazy 
 
-![Profile views](https://gpvc.arturio.dev/Shivani-781)  
+![Profile views](https://gpvc.arturio.dev/vipulgupta22)  
 Thank You for Visiting! 😉
