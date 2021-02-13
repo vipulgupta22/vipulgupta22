@@ -8,7 +8,7 @@
 #### ⚡ Fun fact: I am very Lazy 
 
 ## Contact Me:
-<p align='center'>
+<p>
   <a href="mailto:vipulgup.2204@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
