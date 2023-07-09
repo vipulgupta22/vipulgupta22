@@ -1,9 +1,8 @@
 # VIPUL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 
 ### Hi there 👋
-## I am a Enginnering Student and I am a web-developer and design thinker.
-#### 🔭 I’m currently working on my skills.
-#### 🌱 I’m currently learning Back-end.
+## I am a Full-Stack Developer.
+#### 🔭 I’m currently working at TCS Noida-2 
 #### 💬 Don't Ask me about anything😄
 #### ⚡ Fun fact: I am very Lazy 
 
